@@ -63,17 +63,17 @@ Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that 
 
 ### Evaluation of the Proposed Solution ###
 
-<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T1.png">
+<a href="https://youtu.be/Kqt9z3OxJso" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T1.png"/></a> 
 
-<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T2.png">
+<a href="https://youtu.be/ybkdWPEobGw" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T2.png"/></a> 
 
-<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T3.png">
+<a href="https://youtu.be/73WqmIGtmVA" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T3.png"/></a> 
 
-<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T4.png">
+<a href="https://youtu.be/9EPwc7hZTMU" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T4.png"/></a> 
 
-<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T5.png">
+<a href="https://youtu.be/7vL1fNpHbas" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T5.png"/></a> 
 
-<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T6.png">
+<a href="https://youtu.be/ZjXO0W5GXxo" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T6.png"/></a> 
 
 - - - -
 
