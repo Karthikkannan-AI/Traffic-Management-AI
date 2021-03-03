@@ -2,15 +2,15 @@
 
 ## Table of Contents ##
 
-* [Introduction]()
-* [The Problem]()
-  * [Analysis of the Problem]()
-* [Proposed Solution]()
-  * [Solution Workflow]()
-  * [Evaluation of the Proposed Solution]()
-* [Conclusion]()
-* [Contact Us]()
-* [Rebounding from COVID-19]()
+* [Introduction](https://github.com/Karthikkannan-AI/Traffic-Management-AI#introduction)
+* [The Problem](https://github.com/Karthikkannan-AI/Traffic-Management-AI#the-problem)
+  * [Analysis of the Problem](https://github.com/Karthikkannan-AI/Traffic-Management-AI#analysis-of-the-problem)
+* [Proposed Solution](https://github.com/Karthikkannan-AI/Traffic-Management-AI#proposed-solution)
+  * [Solution Workflow](https://github.com/Karthikkannan-AI/Traffic-Management-AI#solution-workflow)
+  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/Traffic-Management-AI#evaluation-of-the-proposed-solution)
+* [Conclusion](https://github.com/Karthikkannan-AI/Traffic-Management-AI#conclusion)
+* [Contact Us](https://github.com/Karthikkannan-AI/Traffic-Management-AI#contact-us)
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/Traffic-Management-AI#rebounding-from-covid-19)
 
 - - - -
 
@@ -45,7 +45,7 @@ Traffic congestion leads to
 
 __Smart traffic management system goal__: Prioritize traffic conditions by analysing real-time traffic situations.
 
-
+- - - -
 
 ## Proposed Solution ##
 
@@ -53,8 +53,6 @@ __Smart traffic management system goal__: Prioritize traffic conditions by analy
 ### Solution Workflow ###
 
 <img src= "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/SolutionWorkflow.jpg">
-
-- - - -
 
 ### Evaluation of the Proposed Solution ###
 
