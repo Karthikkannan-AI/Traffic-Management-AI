@@ -100,7 +100,7 @@ __Smart traffic management system goal__: Prioritize traffic conditions by analy
 ## Conclusion ##
 
 This project is purely done for Demonstration purposes.
-We can help bring Traffic Management powered by EDGE AI solutions to Indian roads.
+The smart traffic management system can provide intelligent insights and solutions for current problems through few modifications and tech integrations. AI is evolving as a prominent tool in every sector. And the future traffic management systems for the smart community would be an intelligent traffic management system.
 
 - - - -
 
