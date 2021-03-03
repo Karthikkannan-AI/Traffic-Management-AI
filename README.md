@@ -33,7 +33,7 @@ The cost of congestion was calculated on the basis of fuel burned and productivi
 
 National Smart Cities Mission is an urban renewal and retrofitting program by the Government of India with the mission to develop smart cities across the country, making them citizen friendly and sustainable. The Union Ministry of Urban Development is responsible for implementing the mission in collaboration with the state governments of the respective cities. The mission initially included 100 cities, with the deadline for completion of the projects set between 2019 and 2023.
 
-<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/SmartCity.jpeg" width= "75%">
+<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/SmartCity.jpeg" width= "60%">
 
 
 ## AI on the Edge (CCTV) ##
@@ -45,7 +45,7 @@ Edge AI is a system that uses Deep Learning algorithms to process data generated
 
 ## The Problem ##
 
-<img src = "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/Problem.jpg">
+<img src = "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/Problem.jpg" width= "60%">
 
 ### Analysis of the Problem ###
 
@@ -67,21 +67,21 @@ __Smart traffic management system goal__: Prioritize traffic conditions by analy
 
 ### Solution Workflow ###
 
-<img src= "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/SolutionWorkflow.jpg">
+<img src= "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/SolutionWorkflow.jpg" width= "60%">
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/Kqt9z3OxJso" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T1.png"/></a> 
+<a href="https://youtu.be/Kqt9z3OxJso" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T1.png" width= "60%"/></a> 
 
-<a href="https://youtu.be/ybkdWPEobGw" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T2.png"/></a> 
+<a href="https://youtu.be/ybkdWPEobGw" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T2.png" width= "60%"/></a> 
 
-<a href="https://youtu.be/73WqmIGtmVA" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T3.png"/></a> 
+<a href="https://youtu.be/73WqmIGtmVA" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T3.png" width= "60%"/></a> 
 
-<a href="https://youtu.be/9EPwc7hZTMU" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T4.png"/></a> 
+<a href="https://youtu.be/9EPwc7hZTMU" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T4.png" width= "60%"/></a> 
 
-<a href="https://youtu.be/7vL1fNpHbas" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T5.png"/></a> 
+<a href="https://youtu.be/7vL1fNpHbas" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T5.png" width= "60%"/></a> 
 
-<a href="https://youtu.be/ZjXO0W5GXxo" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T6.png"/></a> 
+<a href="https://youtu.be/ZjXO0W5GXxo" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T6.png" width= "60%"/></a> 
 
 - - - -
 
