@@ -23,7 +23,7 @@ Congestion in the four biggest cities (Delhi, Mumbai, Bengaluru, and Kolkata)  i
 
 Peak-hour congestion, which implies the additional time taken during peak traffic to travel a given distance, in these four Indian cities is estimated at 149%, much higher than the Asian average of 67%.
 
-<img src = "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/Report%20Analysis.jpeg" width= "75%">
+<img src = "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/Report%20Analysis.jpeg" width= "60%">
 
 Source: BCG-“Unlocking Cities: The impact of ridesharing across India”
 The cost of congestion was calculated on the basis of fuel burned and productivity loss, which includes the man-hours and opportunity cost, pollution, and accidents (health costs) incurred on an annual basis.
