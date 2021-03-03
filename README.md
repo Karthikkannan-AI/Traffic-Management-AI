@@ -96,9 +96,15 @@ __Edge AI Powered Vehicle Counting_Smart City_Chennai_Test In Anna Salai 3__
 
 <a href="https://youtu.be/7vL1fNpHbas" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T5.png" width= "60%"/></a> 
 
+__Edge AI Powered Vehicle Counting_Smart City_Chennai_Test In Chrompet 1__
+
 <a href="https://youtu.be/73WqmIGtmVA" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T3.png" width= "60%"/></a> 
 
+__Edge AI Powered Vehicle Counting_Smart City_Chennai_Test In Chrompet 2__
+
 <a href="https://youtu.be/9EPwc7hZTMU" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T4.png" width= "60%"/></a> 
+
+__Edge AI Powered Vehicle Counting_Smart City_Chennai_Test In Velachery__
 
 <a href="https://youtu.be/ZjXO0W5GXxo" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T6.png" width= "60%"/></a> 
 
