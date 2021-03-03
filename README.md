@@ -84,15 +84,21 @@ Edge AI is a system that uses Deep Learning algorithms to process data generated
 
 ### Evaluation of the Proposed Solution ###
 
+__Edge AI Powered Vehicle Counting_Smart City_Chennai_Test In Anna Salai 1__
+
 <a href="https://youtu.be/Kqt9z3OxJso" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T1.png" width= "60%"/></a> 
 
+__Edge AI Powered Vehicle Counting_Smart City_Chennai_Test In Anna Salai 2__
+
 <a href="https://youtu.be/ybkdWPEobGw" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T2.png" width= "60%"/></a> 
+
+__Edge AI Powered Vehicle Counting_Smart City_Chennai_Test In Anna Salai 3__
+
+<a href="https://youtu.be/7vL1fNpHbas" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T5.png" width= "60%"/></a> 
 
 <a href="https://youtu.be/73WqmIGtmVA" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T3.png" width= "60%"/></a> 
 
 <a href="https://youtu.be/9EPwc7hZTMU" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T4.png" width= "60%"/></a> 
-
-<a href="https://youtu.be/7vL1fNpHbas" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T5.png" width= "60%"/></a> 
 
 <a href="https://youtu.be/ZjXO0W5GXxo" target="_blank"><img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T6.png" width= "60%"/></a> 
 
