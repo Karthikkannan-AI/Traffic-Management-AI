@@ -23,7 +23,7 @@ Congestion in the four biggest cities (Delhi, Mumbai, Bengaluru, and Kolkata)  i
 
 Peak-hour congestion, which implies the additional time taken during peak traffic to travel a given distance, in these four Indian cities is estimated at 149%, much higher than the Asian average of 67%.
 
-<img src = "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/Report%20Analysis.jpeg" width= "50%">
+<img src = "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/Report%20Analysis.jpeg" width= "75%">
 
 Source: BCG-“Unlocking Cities: The impact of ridesharing across India”
 The cost of congestion was calculated on the basis of fuel burned and productivity loss, which includes the man-hours and opportunity cost, pollution, and accidents (health costs) incurred on an annual basis.
@@ -33,7 +33,7 @@ The cost of congestion was calculated on the basis of fuel burned and productivi
 
 National Smart Cities Mission is an urban renewal and retrofitting program by the Government of India with the mission to develop smart cities across the country, making them citizen friendly and sustainable. The Union Ministry of Urban Development is responsible for implementing the mission in collaboration with the state governments of the respective cities. The mission initially included 100 cities, with the deadline for completion of the projects set between 2019 and 2023.
 
-<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/SmartCity.jpeg" width= "50%">
+<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/SmartCity.jpeg" width= "75%">
 
 
 ## AI on the Edge (CCTV) ##
