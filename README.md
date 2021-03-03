@@ -3,16 +3,16 @@
 
 ## Table of Contents ##
 
-* [About the Project]("https://github.com/Karthikkannan-AI/Traffic-Management-AI#about-the-project")
-  * [AI on the Edge]("https://github.com/Karthikkannan-AI/Traffic-Management-AI#ai-on-the-edge")
-  * [Application Usecases]("https://github.com/Karthikkannan-AI/Traffic-Management-AI#application-usecases-of-computer-vision-powered-by-edge-ai")
-* [Solution]("https://github.com/Karthikkannan-AI/Traffic-Management-AI#solution")
-  * [Data Collection]("https://github.com/Karthikkannan-AI/Traffic-Management-AI#data-collection")
-  * [Solution Workflow]("https://github.com/Karthikkannan-AI/Traffic-Management-AI#solution-workflow")
-  * [Evaluation of the Proposed Solution]("https://github.com/Karthikkannan-AI/Traffic-Management-AI#evaluation-of-the-proposed-solution")
-* [Conclusion]("https://github.com/Karthikkannan-AI/Traffic-Management-AI#conclusion")
-* [Contact Us]("https://github.com/Karthikkannan-AI/Traffic-Management-AI#contact-us")
-* [Rebounding from COVID-19]("https://github.com/Karthikkannan-AI/Traffic-Management-AI#rebounding-from-covid-19")
+* [About the Project](https://github.com/Karthikkannan-AI/Traffic-Management-AI#about-the-project)
+  * [AI on the Edge](https://github.com/Karthikkannan-AI/Traffic-Management-AI#ai-on-the-edge)
+  * [Application Usecases](https://github.com/Karthikkannan-AI/Traffic-Management-AI#application-usecases-of-computer-vision-powered-by-edge-ai)
+* [Solution](https://github.com/Karthikkannan-AI/Traffic-Management-AI#solution)
+  * [Data Collection](https://github.com/Karthikkannan-AI/Traffic-Management-AI#data-collection)
+  * [Solution Workflow](https://github.com/Karthikkannan-AI/Traffic-Management-AI#solution-workflow)
+  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/Traffic-Management-AI#evaluation-of-the-proposed-solution)
+* [Conclusion](https://github.com/Karthikkannan-AI/Traffic-Management-AI#conclusion)
+* [Contact Us](https://github.com/Karthikkannan-AI/Traffic-Management-AI#contact-us)
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/Traffic-Management-AI#rebounding-from-covid-19)
 
 - - - -
 
