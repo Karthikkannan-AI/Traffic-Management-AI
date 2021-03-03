@@ -3,6 +3,9 @@
 ## Table of Contents ##
 
 * [Introduction](https://github.com/Karthikkannan-AI/Traffic-Management-AI#introduction)
+  * [Traffic Jams in India](https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/README.md#traffic-jams-in-india) 
+  * [Smart cities Mission](https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/README.md#smart-cities-mission)
+  * [AI on the edge](https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/README.md#ai-on-the-edge-cctv)  
 * [The Problem](https://github.com/Karthikkannan-AI/Traffic-Management-AI#the-problem)
   * [Analysis of the Problem](https://github.com/Karthikkannan-AI/Traffic-Management-AI#analysis-of-the-problem)
 * [Proposed Solution](https://github.com/Karthikkannan-AI/Traffic-Management-AI#proposed-solution)
