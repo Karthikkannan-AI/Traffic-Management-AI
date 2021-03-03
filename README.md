@@ -63,6 +63,17 @@ Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that 
 
 ### Evaluation of the Proposed Solution ###
 
+<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T1.png">
+
+<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T2.png">
+
+<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T3.png">
+
+<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T4.png">
+
+<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T5.png">
+
+<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/T6.png">
 
 - - - -
 
