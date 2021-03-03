@@ -21,10 +21,11 @@
 
 <img src = "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/Introduction.jpg">
 
-* Vehicle detection and statistics in urban roads are of considerable significance to intelligent traffic management and control. 
-* Intelligent vehicle detection and counting are becoming increasingly important in the field of Urban Traffic Management.
-* As a proof of concept, we have built a Vision-based vehicle detection and counting system using deep learning in urban Roads 
+Vehicle detection and statistics in urban roads are of considerable significance to intelligent traffic management and control. 
 
+Intelligent vehicle detection and counting are becoming increasingly important in the field of Urban Traffic Management.
+
+As a proof of concept, we have built a Vision-based vehicle detection and counting system using deep learning in urban Roads 
 
 The vehicle detection model is deployed in Edge Device which is connected to the Traffic Monitoring CCTV in Chennai across various locations to understand the flow of Traffic.
 
