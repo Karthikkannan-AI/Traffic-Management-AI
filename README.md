@@ -16,6 +16,8 @@
 
 ## Introduction ##
 
+<img src = "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/Introduction.jpg">
+
 Traffic jams in Indian cities aren’t just frustrating – they’re also expensive
 Congestion in the four biggest cities (Delhi, Mumbai, Bengaluru, and Kolkata)  is costing $22 billion annually(As per the report from The Boston Consulting Group and commissioned by Uber).
 
@@ -26,7 +28,6 @@ Peak-hour congestion, which implies the additional time taken during peak traffi
 Source: BCG-“Unlocking Cities: The impact of ridesharing across India”
 The cost of congestion was calculated on the basis of fuel burned and productivity loss, which includes the man-hours and opportunity cost, pollution, and accidents (health costs) incurred on an annual basis.
 
-<img src = "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/Introduction.jpg">
 
 ## Smart Cities Mission ##
 
