@@ -18,7 +18,7 @@
 
 <img src = "https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/Introduction.jpg">
 
-<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/SmartCity.jpg">
+<img src="https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/resources/SmartCity.jpeg">
 
 ## Smart Cities Mission ##
 
